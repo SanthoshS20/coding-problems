@@ -4,6 +4,10 @@
 
 # cook your dish here
 
+# DOC STRING PYTHON
+# https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+# https://www.datacamp.com/tutorial/docstrings-python
+
 ADVITIYA_DATES = [16, 17, 18]
 
 def decide_participant_status(date):
